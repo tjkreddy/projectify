@@ -1,16 +1,4 @@
 
-### Step 1: Open the file
-
-```bash
-nano README.md
-
-```
-
-### Step 2: Paste this exact text
-
-Delete everything in the file, and paste this in. Notice the blank lines between the steps and the code blocks:
-
-```markdown
 # 🛠️ Projectify
 
 Turn passive doom-scrolling into an actionable engineering backlog. 
